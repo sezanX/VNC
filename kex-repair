@@ -1,0 +1,27 @@
+
+sudo apt-get install tigervnc-standalone-server tigervnc-xorg-extension mate --install-recommends
+sudo chmod +x start-kex stop-kex passwd-kex
+sudo cp start-kex /usr/local/bin/
+sudo cp stop-kex /usr/local/bin/
+sudo cp passwd-kex /usr/local/bin/
+sudo updatedb
+
+
+printf "\033[0;33m #################\n"
+printf "__     ___   _  ____ 
+\ \   / / \ | |/ ___|
+ \ \ / /|  \| | |    
+  \ V / | |\  | |___ 
+   \_/  |_| \_|\____|
+                     "
+printf "\n\033[0;33m # Success !! \n # Welcome to Sezan Mahmood             \n" 
+printf "\033[0;33m # YouTube https://cutt.ly/fK9GaeF \n"
+printf "\033[0;33m # Github https://github.com/sezanX             \n\n"
+printf "\033[0;33m #################\n"
+printf "\033[0;32m passwd-kex  # to set or change vnc password \n"
+printf "\033[0;32m start-kex   # to start vnc server\n"
+printf "\033[0;32m stop-kex    # to stop vnc server\n\n"
+
+printf "\033[0;32m # Note : \n" 
+ printf "\033[0;32m # IP Address 127.0.0.1:5901 (Recommended) \n\n\n"
+ 
