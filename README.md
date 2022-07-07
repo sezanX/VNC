@@ -1,6 +1,7 @@
 This is for kex repair and solve VNC server error in kali linux android in Termux . 
 
 # Commands
+
 $ nh
 
 $ git clone https://github.com/sezanX/VNC
@@ -15,7 +16,7 @@ $ bash kex-repair
 
 
 # SEZAN MAHMOOD
-YouTube https://youtube.com/channel/UCp6kChycm58SDng3dPBGcIg
+YouTube https://cutt.ly/CLo7hn2 
 
 Github https://github.com/sezanX
 
