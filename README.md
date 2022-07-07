@@ -14,10 +14,10 @@ $ bash kex-repair
 
 
 
-# SEZAN MAHMOOD 
-YouTube https://youtube.com/channel/UCp6kChycm58SDng3dPBGcIg 
+# SEZAN MAHMOOD
+[YouTube] (https://youtube.com/channel/UCp6kChycm58SDng3dPBGcIg)
 
-Github https://github.com/sezanX
+[Github] (https://github.com/sezanX)
 
 
 
