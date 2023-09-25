@@ -2,15 +2,15 @@ This is for kex repair and solve VNC server error in kali linux android in Termu
 
 # Commands
 
-$ nh
+$ `nh`
 
-$ git clone https://github.com/sezanX/VNC
+$ `git clone https://github.com/sezanX/VNC`
 
-$ cd VNC
+$ `cd VNC`
 
-$ chmod +x kex-repair
+$ `chmod +x kex-repair`
 
-$ bash kex-repair 
+$ `bash kex-repair`
 
 
 
